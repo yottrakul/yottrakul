@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @yottrakul
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Javascript, CSS, HTML.
+- 👀 I’m interested in Front-End Developer
+- 🌱 I’m currently learning Back-End.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me @email zxc734@gmail.com
 
 <!---
 yottrakul/yottrakul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
