@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yottrakul
-- 👀 I’m interested in Front-End Developer
+- 👀 I’m interested in Full-Stacks Developer
 - 🌱 I’m currently learning Back-End.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @email zxc734@gmail.com
